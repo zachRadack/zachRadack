@@ -1,4 +1,4 @@
-Hello I am Zachary Radack, I am a student in information science and technology. If 
+Hello I am Zachary Radack, I am a UofA student in information science and technology.
 
 <!---
 zachRadack/zachRadack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
